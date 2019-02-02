@@ -1,0 +1,13 @@
+#okvir {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.student {
+    background-color: yellow;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    padding: 20px;
+    width: 25%;
+}
